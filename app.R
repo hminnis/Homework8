@@ -24,7 +24,7 @@ axis_vars <- names(diamonds)
 ui <- fluidPage(
    
    # Application title
-   titlePanel("Diamonds Data Set Viewer"),
+   titlePanel("Gurl we gon look at some diamonds"),
    
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
